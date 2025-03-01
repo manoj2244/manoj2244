@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manoj Nepali</h1>
-<h3 align="center" style="background:blue"> Full Stack Developer | AI & Data Science Enthusiast | Next.js | Node.js | React.js</h3>
+<h3 align="center" style="background:blue"> 🚀Full Stack Developer | AI & Data Science Enthusiast | Next.js | Node.js | React.js🚀</h3>
 <p align="center">
   <img alt="coding" width="500" height="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </p>
